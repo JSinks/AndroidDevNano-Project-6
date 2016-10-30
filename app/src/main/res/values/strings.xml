@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">San Rafael City Guide</string>
+
+    <string name="category_restaurants">Local Restaurants</string>
+    <string name="category_bars">Popular Bars</string>
+    <string name="category_hotels">Boutique Hotels</string>
+    <string name="category_attractions">Local Attractions</string>
+
+    <string name="restaurant_one">Upscale French Restaurant</string>
+    <string name="restaurant_two">Mexican Diner</string>
+    <string name="restaurant_three">Japanese Tepanyaki</string>
+    <string name="restaurant_four">Food Truck City</string>
+
+    <string name="bar_one">Awesome sports bar</string>
+    <string name="bar_two">Posh cocktail bar</string>
+
+    <string name="hotel_one">Trendy Hotel</string>
+    <string name="hotel_two">Boring Hotel</string>
+
+    <string name="attraction_one">Really popular landmark</string>
+    <string name="attraction_two">Sunday farmers market</string>
+
+</resources>
